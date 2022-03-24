@@ -1,4 +1,4 @@
-FROM node:17.7.1-bullseye-slim
+FROM node:16.13.1
 
 WORKDIR /var/www/
 
