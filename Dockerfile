@@ -1,4 +1,4 @@
-FROM node:16.13.1
+FROM node:17.6.0-buster-slim
 
 WORKDIR /var/www/
 
